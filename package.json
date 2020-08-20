@@ -1,0 +1,12 @@
+{
+    "name": "com.mono.taglib",
+    "displayName": "TagLib#",
+    "version": "2.2.0",
+    "unity": "2017.1",
+    "description": "Package wrapper for https://github.com/mono/taglib-sharp",
+    "dependencies": {},
+	"author": {
+		"name": "mono"
+	},
+	"type": "library"
+}
